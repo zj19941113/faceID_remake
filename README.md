@@ -6,6 +6,7 @@ VAP RGBD face database： http://www.vap.aau.dk/rgb-d-face-database/
 
 ## 训练
 运行`python faceID_train.py`,训练的模型会保存到`faceid_big_rgbd.h5`
+也可直接下载模型，链接：https://pan.baidu.com/s/1wPkrwyw1lO_kvpMC4GnmDw  ,提取码：aewz
 
 ## 运行
 运行`python faceID_test.py`，返回两组rgbd图像之间的距离dis
