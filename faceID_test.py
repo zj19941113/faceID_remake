@@ -63,8 +63,10 @@ def create_input_rgbd(file_path):
     return np.array([full1])
 
 file1 = ('faceid_val/(2012-05-18)(153532)/005_2_d.dat')
+# file1 = ('faceid_val/(2012-05-18)(154728)/002_1_d.dat')
 inp1 = create_input_rgbd(file1)
 file1 = ('faceid_val/(2012-05-18)(153532)/001_1_d.dat')
+# file1 = ('faceid_val/(2012-05-18)(155357)/013_2_d.dat')
 inp2 = create_input_rgbd(file1)
 
 print(model.predict([inp1, inp2])[0][0])
