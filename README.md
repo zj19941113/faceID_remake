@@ -1,6 +1,7 @@
 faceID_beta地址：https://github.com/normandipalo/faceID_beta
 
 ## 下载数据集
+如果不使用Google Colab运行，需要自己下载数据集。
 VAP RGBD face database： http://www.vap.aau.dk/rgb-d-face-database/
 后5个解压到/faceid_val，剩下的解压到/faceid_train，注释faceID_train.py第一部分
 
