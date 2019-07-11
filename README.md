@@ -1,4 +1,4 @@
-faceID_beta地址：https://github.com/normandipalo/faceID_beta
+
 
 ## 下载数据集
 如果不使用Google Colab运行，需要自己下载数据集。
