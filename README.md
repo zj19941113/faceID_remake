@@ -17,7 +17,7 @@ VAP RGBD face database： http://www.vap.aau.dk/rgb-d-face-database/
 
 <div style='text-align:center'>与同一用户不同姿势间距离</div>
 
-<img src='https://raw.githubusercontent.com/zj19941113/faceID_remake/master/img/1.png' width='800px'/>
+<img src='https://raw.githubusercontent.com/zj19941113/faceID_remake/master/img/2.png' width='800px'/>
 
 <div style='text-align:center'>与不同用户正脸间距离</div>
 
