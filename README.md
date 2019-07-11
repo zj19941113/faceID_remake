@@ -13,11 +13,11 @@ VAP RGBD face database： http://www.vap.aau.dk/rgb-d-face-database/
 运行`python faceID_test.py`，返回两组rgbd图像之间的距离dis
 
 ## 测试结果
-<img src='https://raw.githubusercontent.com/zj19941113/faceID_remake/master/img/Figure_1.png' width='200px'/><img src='https://raw.githubusercontent.com/zj19941113/faceID_remake/master/img/Figure_2.png' width='200px'/><img src='https://raw.githubusercontent.com/zj19941113/faceID_remake/master/img/Figure_3.png' width='200px'/><img src='https://raw.githubusercontent.com/zj19941113/faceID_remake/master/img/Figure_4.png' width='200px'/>
+<img src='https://raw.githubusercontent.com/zj19941113/faceID_remake/master/img/1.png' width='800px'/>
 
-dis = 0.24671088
+<div style='text-align:center'>与同一用户不同姿势间距离</div>
 
-<img src='https://raw.githubusercontent.com/zj19941113/faceID_remake/master/img/Figure_21.png' width='200px'/><img src='https://raw.githubusercontent.com/zj19941113/faceID_remake/master/img/Figure_22.png' width='200px'/><img src='https://raw.githubusercontent.com/zj19941113/faceID_remake/master/img/Figure_23.png' width='200px'/><img src='https://raw.githubusercontent.com/zj19941113/faceID_remake/master/img/Figure_24.png' width='200px'/>
+<img src='https://raw.githubusercontent.com/zj19941113/faceID_remake/master/img/1.png' width='800px'/>
 
-dis = 1.7609411
+<div style='text-align:center'>与不同用户正脸间距离</div>
 
