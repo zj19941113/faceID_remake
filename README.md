@@ -21,3 +21,7 @@ VAP RGBD face database： http://www.vap.aau.dk/rgb-d-face-database/
 
 <div style='text-align:center'>与不同用户正脸间距离</div>
 
+参考： https://towardsdatascience.com/how-i-implemented-iphone-xs-faceid-using-deep-learning-in-python-d5dbaa128e1d
+
+
+
